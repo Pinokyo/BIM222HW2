@@ -1,0 +1,29 @@
+
+p{
+	margin: 20px;
+	font-size: 17px;
+}
+
+h4{
+	margin: 20px;
+}
+
+ figcaption{
+	 font-size:15px;
+ }
+ 
+ figure{
+	 display:inline-block;
+	 margin:5px;
+ }
+ 
+ main > article > p {
+	 
+	font-size:19px;
+ }   
+   
+   
+   main > article > a {
+	   color:White;
+   }   
+      
